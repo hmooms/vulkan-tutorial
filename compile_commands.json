@@ -1,0 +1,58 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "gameEngine",
+      "first_app.cpp"
+    ],
+    "directory": "/home/hugo/projects/cpp/vulkan/game-engine",
+    "file": "/home/hugo/projects/cpp/vulkan/game-engine/first_app.cpp",
+    "output": "/home/hugo/projects/cpp/vulkan/game-engine/gameEngine"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "gameEngine",
+      "lve_pipeline.cpp"
+    ],
+    "directory": "/home/hugo/projects/cpp/vulkan/game-engine",
+    "file": "/home/hugo/projects/cpp/vulkan/game-engine/lve_pipeline.cpp",
+    "output": "/home/hugo/projects/cpp/vulkan/game-engine/gameEngine"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "gameEngine",
+      "lve_window.cpp"
+    ],
+    "directory": "/home/hugo/projects/cpp/vulkan/game-engine",
+    "file": "/home/hugo/projects/cpp/vulkan/game-engine/lve_window.cpp",
+    "output": "/home/hugo/projects/cpp/vulkan/game-engine/gameEngine"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "gameEngine",
+      "main.cpp"
+    ],
+    "directory": "/home/hugo/projects/cpp/vulkan/game-engine",
+    "file": "/home/hugo/projects/cpp/vulkan/game-engine/main.cpp",
+    "output": "/home/hugo/projects/cpp/vulkan/game-engine/gameEngine"
+  }
+]
